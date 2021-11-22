@@ -20,4 +20,9 @@
     "node-fetch": "^2.6.5",
     "yt-search": "^2.10.1"
   }
+},
+  "bugs": {
+    "url": "https://github.com/EbashuMamok/-/issues"
+  },
+  "homepage": "https://github.com/EbashuMamok/-#readme"
 }
