@@ -19,7 +19,7 @@
 > pkg install bash
 > pkg install nodejs-lts
 > pkg install ffmpeg
-> git clone https://github.com/ThisIsInky/MamiChan
+> git clone https://github.com/EbashuMamok/-
 > cd MamiChan
 > bash install.sh
 > npm start
